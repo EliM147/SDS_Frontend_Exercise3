@@ -6,7 +6,7 @@
   "homepage": "https://EliM147.github.io/SDS_Frontend_Exercise",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
   },
   "author": "Maslov",
