@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "homepage": "https://EliM147.github.io/SDS_Frontend_Exercise",
+  "homepage": "https://EliM147.github.io/SDS_Frontend_Exercise2",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
